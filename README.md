@@ -1,4 +1,4 @@
-# redis構築
+# redis cluster build
 
 ## Create Redis Cluster Configuration
 
